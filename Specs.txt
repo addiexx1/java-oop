@@ -1,0 +1,9 @@
+Designing Process
+ Create School Financial Management System :
+* General Ledger,
+* Cash in and out flows
+* Student's tuitions
+* Teacher's salaries
+
+//Teacher has private attributes: employee id, name and salary
+//Student has private attributes student id, name, grade level,  tuition due, tuition paid
